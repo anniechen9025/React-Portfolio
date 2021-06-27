@@ -1,5 +1,5 @@
 import React from "react";
-import Introduction from "../components/JouAn"
+import Introduction from "../components/Introduction"
 
 
 

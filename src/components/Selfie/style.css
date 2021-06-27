@@ -1,14 +1,4 @@
-.header {
-  min-height: 100px;
-  background: #cca79f;
-  position: relative;
-}
-
-.header span {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  padding: 3px;
-  background: #b8b8b8;
+.selfie{
+    background-color:transparent;
+    border:none;
 }

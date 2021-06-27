@@ -5,8 +5,8 @@ import React from "react";
 function Contact() {
     return (
         <div>
-            <h4 id="Contact">Contact Me</h4>
-            <nav class="navi">
+            <h4>Contact Me</h4>
+            <nav>
                 <section>
                     <div>
                         <a href="https://github.com/anniechen9025/Advanced-CSS-Portfolio.git">Github</a>

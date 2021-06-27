@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div>
-        <img src={Deer} alt="grey deer" />
+        <img class="img-fluid" src={Deer} alt="grey deer" />
       </div>
     </nav>
   );
