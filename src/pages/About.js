@@ -1,13 +1,12 @@
 import React from "react";
+import Introduction from "../components/JouAn"
 
 
 
 function About() {
     return (
         <div>
-            <p>
-                About page
-            </p>
+            <Introduction />
         </div>
     );
 }
