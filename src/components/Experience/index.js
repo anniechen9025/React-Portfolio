@@ -5,10 +5,29 @@ import "./style.css";
 function Experience() {
     return (
         <div class="container">
-            <div class = "p-3 border-top border-2 border-secondary"></div>
+            <div class="p-3 border-top border-2 border-secondary"></div>
             <div class="row">
-                <div class="col-12 col-sm-6">
-                    
+                <div class="col-12 col-sm-6 row">
+                    <h2 class="col-12 col-sm-9 pb-3 font-monospace text-center">Experiences</h2>
+                    <div class="col-12 col-sm-3">
+                    </div>
+                    <div class="col-12 col-sm-2">
+                    </div>
+                    <div class="col-12 col-sm-10">
+                        <div>
+                            <h4 class="fs-5">Freight Forwarder | July, 2018 - Current</h4>
+                            <p class="fs-6 fw-light">Seattle, Washington</p>
+                        </div>
+                        <div>
+                            <h4 class="fs-5">Japanese Translator | Oct, 2014 - Current</h4>
+                            <p class="fs-6 fw-light">Seattle, Washington</p>
+                        </div>
+                        <div>
+                            <h4 class="fs-5">Chinese Tutor | Jan, 2015 - May, 2015</h4>
+                            <p class="fs-6 fw-light">Bellingham, Washington</p>
+                        </div>
+                    </div>
+
                 </div>
                 <div class="col-12 col-sm-6 align-self-center justify-content-center">
                     <div class=" row justify-content-center">
@@ -29,10 +48,14 @@ function Experience() {
                             <li>Quadrilingual in EN, CN, JP, KR</li>
                         </ul>
                         <ol class="col-12 col-sm-6"> Tech Skill:
-                            <li>Chinese (Mandarin)</li>
-                            <li>English</li>
-                            <li>Japanese</li>
-                            <li>Korean</li>
+                            <li>HTML</li>
+                            <li>CSS</li>
+                            <li>Javascript</li>
+                            <li>MySQLDB</li>
+                            <li>MongoDB</li>
+                            <li>Express</li>
+                            <li>Node</li>
+                            <li>React</li>
                         </ol>
                     </div>
                 </div>

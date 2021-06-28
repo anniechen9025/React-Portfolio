@@ -1,6 +1,5 @@
 import React from "react";
 import ResumeIcon from "../components/ResumeIcon";
-import SkillList from "../components/ResumeSkill";
 
 
 function Resume() {
@@ -8,7 +7,6 @@ function Resume() {
         <div class="container">
             <div class ="row">
                 <ResumeIcon />
-                <SkillList />
             </div>
         </div>
 

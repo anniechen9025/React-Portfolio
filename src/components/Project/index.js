@@ -8,7 +8,7 @@ function Project({ project }) {
         <div class="col-12 col-sm-6">
             <div class ="card text-center">
                 <a href={project.github}>
-                    <img class="img-thumbnail card-img-top images" src={require(`./${project.name}.png`).default} />
+                    <img id="images" class="rounded card-img-top" src={require(`./${project.name}.png`).default} />
                 </a>
                 <div class="card-body">
                     <a href={project.repo}>

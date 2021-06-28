@@ -3,7 +3,7 @@
   border:none;
 }
 
-.image{
-  max-height: 85%;
-  max-width: 85%;
+.img-thumbnail{
+  padding:0px;
+  background-color: transparent
 }
