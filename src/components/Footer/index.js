@@ -4,7 +4,7 @@ import "./style.css";
 function Footer() {
   return (
     <footer className="footer">
-      <span>❤️️ Made By JOU-AN ❤️️ \(`&#969;`)/</span>
+      <p class = "text-center fs-6"> &#169; 2021 JOU-AN CHEN \(`&#969;`)/</p>
     </footer>
   );
 }

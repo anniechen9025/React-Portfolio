@@ -2,3 +2,8 @@
   background-color: transparent;
   border:none;
 }
+
+.image{
+  max-height: 85%;
+  max-width: 85%;
+}

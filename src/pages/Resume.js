@@ -5,10 +5,13 @@ import SkillList from "../components/ResumeSkill";
 
 function Resume() {
     return (
-        <div>
-            <ResumeIcon />
-            <SkillList />
+        <div class="container">
+            <div class ="row">
+                <ResumeIcon />
+                <SkillList />
+            </div>
         </div>
+
     );
 }
 

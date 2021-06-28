@@ -17,7 +17,7 @@ function App() {
         <Wrapper>
           <Route exact path="/" component={Home} />
           <Route exact path="/aboutme" component={About} />
-          <Route exact path="/contact" component={Contact} />
+          {/* <Route exact path="/contact" component={Contact} /> */}
           <Route exact path="/work" component={Work} />
           <Route exact path="/resume" component={Resume} />
         </Wrapper>
