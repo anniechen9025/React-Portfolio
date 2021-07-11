@@ -35,8 +35,8 @@ function Work() {
         <div>
             <h2>Work </h2>
             <h2> Click on picture to website. Click button to work Git Repo.</h2>
-            <div class = "container-md">
-                <div class="row">
+            <div className = "container-md">
+                <div className="row">
                     {project.map((project, id) => {
                         return <Project project={project} key={id} />
                     })}

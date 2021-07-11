@@ -5,14 +5,14 @@ import "./style.css";
 // Depending on the current path, this component sets the "active" class on the appropriate navigation link item
 function Project({ project }) {
     return (
-        <div class="col-12 col-sm-6">
-            <div class ="card text-center">
+        <div className="col-12 col-sm-6">
+            <div className ="card text-center">
                 <a href={project.github}>
-                    <img id="images" class="rounded card-img-top" src={require(`./${project.name}.png`).default} />
+                    <img id="images" className="rounded card-img-top" src={require(`./${project.name}.png`).default} />
                 </a>
-                <div class="card-body">
+                <div className="card-body">
                     <a href={project.repo}>
-                        <button class="btn btn-light">{project.name}</button>
+                        <button className="btn btn-light">{project.name}</button>
                     </a>
                 </div>
             </div>
