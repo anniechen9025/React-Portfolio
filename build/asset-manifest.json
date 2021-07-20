@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13057a2c.chunk.css",
+    "main.js": "/static/js/main.8861ff25.chunk.js",
+    "main.js.map": "/static/js/main.8861ff25.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7650fcfc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7650fcfc.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.3a7076d7.chunk.js": "/static/js/2.3a7076d7.chunk.js",
+    "static/js/2.3a7076d7.chunk.js.map": "/static/js/2.3a7076d7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.13057a2c.chunk.css.map": "/static/css/main.13057a2c.chunk.css.map",
+    "static/js/2.3a7076d7.chunk.js.LICENSE.txt": "/static/js/2.3a7076d7.chunk.js.LICENSE.txt",
+    "static/media/Budget-Tracker.png": "/static/media/Budget-Tracker.8a287d6b.png",
+    "static/media/Foodies.png": "/static/media/Foodies.0398e210.png",
+    "static/media/Note-Taker.png": "/static/media/Note-Taker.faa2e512.png",
+    "static/media/Pokemon.png": "/static/media/Pokemon.a0a7e5c6.png",
+    "static/media/Wheather-Dashboard.png": "/static/media/Wheather-Dashboard.5d6f6c11.png",
+    "static/media/Workout-Tracker.png": "/static/media/Workout-Tracker.d348ba08.png",
+    "static/media/greydeer.2ace3978.png": "/static/media/greydeer.2ace3978.png",
+    "static/media/jouan.bdfea1fd.JPG": "/static/media/jouan.bdfea1fd.JPG",
+    "static/media/resumeimg.d6071f4f.png": "/static/media/resumeimg.d6071f4f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7650fcfc.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.3a7076d7.chunk.js",
+    "static/css/main.13057a2c.chunk.css",
+    "static/js/main.8861ff25.chunk.js"
+  ]
+}
